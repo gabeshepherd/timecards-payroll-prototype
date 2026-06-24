@@ -1,6 +1,6 @@
 # Timecards & Payroll Rework Prototype
 
-This repository contains the interactive prototype for the Timecards & Payroll Rework project.
+This repository contains the interactive prototype for the Timecards & Payroll Rework feature.
 
 The purpose of this prototype is to explore and validate the proposed redesign of the Timecards and Payroll experience, including workflow improvements, updated user interactions, and new functionality before development begins.
 
@@ -16,4 +16,4 @@ Open the published GitHub Pages site to interact with the latest version of the 
 
 ## Feedback
 
-If you have feedback or would like to request changes, please share them in the project discussion thread so they can be reviewed and prioritized.
+If you have feedback or would like to request changes, please reach out to Eric or Gabe on Slack.
